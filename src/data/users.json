@@ -4,11 +4,5 @@
     "password": "admin",
     "role": "admin",
     "premium": true
-  },
-  {
-    "username": "kontol",
-    "password": "kontol",
-    "role": "buyer",
-    "premium": false
   }
 ]
