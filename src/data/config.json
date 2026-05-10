@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "XauÃPutra",
+    "name": "XauÃPutra",
     "tagline": "Premium Trading EA Platform",
     "favicon": "https://i.postimg.cc/pVCw2NjM/1778327126809-019e0c8d-4a61-7565-b5ba-b5dd6c6e3fe7.png",
     "logo": "https://i.postimg.cc/pVCw2NjM/1778327126809-019e0c8d-4a61-7565-b5ba-b5dd6c6e3fe7.png",
-    "copyright": "Â© 2024 XauÃPutra Premium Quant Systems"
+    "copyright": "ÃÂ© 2024 XauÃPutra Premium Quant Systems"
   },
   "colors": {
     "primary": "#ffffff",
@@ -16,7 +16,7 @@
   "links": {
     "tiktok": "https://www.tiktok.com/@jeiiwaaaa?_r=1&_t=ZS-96DRrdP82K4",
     "whatsapp": "6282230304458",
-    "whatsappMessage": "Halo Owner XauÃPutra, saya mau get access EA Premium."
+    "whatsappMessage": "Halo Owner XauÃPutra, saya mau get access EA Premium."
   },
   "ea": {
     "name": "ScalpGridHedge Premium",
@@ -26,9 +26,9 @@
   },
   "about": {
     "title": "About Dev",
-    "devName": "XauÃPutra",
+    "devName": "XauÃÂPutra",
     "devSubtitle": "Premium Quant Systems",
-    "description": "XauÃPutra adalah platform EA (Expert Advisor) trading premium yang dikembangkan oleh tim quant trader berpengalaman. Fokus kami pada scalping, grid recovery, dan hedging strategy untuk menghasilkan profit konsisten di market forex & gold.",
+    "description": "XauÃÂPutra adalah platform EA (Expert Advisor) trading premium yang dikembangkan oleh tim quant trader berpengalaman. Fokus kami pada scalping, grid recovery, dan hedging strategy untuk menghasilkan profit konsisten di market forex & gold.",
     "tags": [
       "MT4",
       "MQL4",
@@ -227,7 +227,7 @@
   ],
   "projects": [
     {
-      "name": "XauÃPutra EA",
+      "name": "XauÃÂPutra EA",
       "desc": "Premium trading EA dengan scalping, grid, dan hedging strategy untuk MT4.",
       "icon": "Zap",
       "tags": [
@@ -330,7 +330,7 @@
     }
   },
   "login": {
-    "title": "XauÃPutra",
+    "title": "XauXPutra",
     "subtitle": "Premium Trading EA Platform",
     "showGetAccess": true,
     "getAccessText": "Belum punya akun? Hubungi owner untuk mendapatkan akun dan full access EA Premium dengan setup & support.",
@@ -339,11 +339,11 @@
   "home": {
     "welcomeTitle": "Welcome",
     "showTiktokStep": true,
-    "tiktokTitle": "Step 1 â Follow TikTok",
+    "tiktokTitle": "Step 1 Ã¢ÂÂ Follow TikTok",
     "tiktokDesc": "Follow TikTok owner @jeiiwaaaa untuk mendapatkan akses EA Premium. Setelah follow, klik Confirm Follow.",
     "tiktokButton": "Open TikTok",
     "tiktokConfirmButton": "Confirm Follow",
-    "scriptTitle": "Step 2 â Get EA Script",
+    "scriptTitle": "Step 2 Ã¢ÂÂ Get EA Script",
     "scriptDesc": "Setelah follow TikTok, klik tombol dibawah untuk melihat dan download script EA Premium.",
     "scriptButton": "Get EA Script",
     "accessTitle": "Get Access",
