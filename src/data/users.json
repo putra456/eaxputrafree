@@ -10,11 +10,5 @@
     "password": "kontol",
     "role": "buyer",
     "premium": false
-  },
-  {
-    "username": "Memek",
-    "password": "Memek",
-    "role": "buyer",
-    "premium": false
   }
 ]
