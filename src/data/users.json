@@ -10,11 +10,5 @@
     "password": "buyer",
     "role": "buyer",
     "premium": false
-  },
-  {
-    "username": "anjir",
-    "password": "anjir",
-    "role": "buyer",
-    "premium": true
   }
 ]
