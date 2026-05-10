@@ -10,17 +10,5 @@
     "password": "buyer",
     "role": "buyer",
     "premium": false
-  },
-  {
-    "username": "kontol",
-    "password": "kontol",
-    "role": "buyer",
-    "premium": false
-  },
-  {
-    "username": "Test",
-    "password": "Test",
-    "role": "buyer",
-    "premium": false
   }
 ]
