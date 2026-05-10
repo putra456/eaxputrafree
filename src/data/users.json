@@ -12,9 +12,9 @@
     "premium": false
   },
   {
-    "username": "kontol",
-    "password": "kontol",
+    "username": "anjir",
+    "password": "anjir",
     "role": "buyer",
-    "premium": false
+    "premium": true
   }
 ]
