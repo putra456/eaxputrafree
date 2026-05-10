@@ -10,5 +10,11 @@
     "password": "kontol",
     "role": "buyer",
     "premium": false
+  },
+  {
+    "username": "Jaii",
+    "password": "Jaii",
+    "role": "admin",
+    "premium": true
   }
 ]
