@@ -4,5 +4,11 @@
     "password": "admin",
     "role": "admin",
     "premium": true
+  },
+  {
+    "username": "ayah",
+    "password": "ayah",
+    "role": "admin",
+    "premium": true
   }
 ]
